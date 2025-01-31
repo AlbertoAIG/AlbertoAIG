@@ -1,51 +1,34 @@
-### Hi there 👋
+# 👨‍💻 Alberto Íñigo Gallardo - Ingeniero de Software
 
-# 👨‍💻 Alberto Íñigo Gallardo - Software Engineer
+## 🌟 Sobre mí
+Soy un apasionado **Ingeniero de Software** basado en **Madrid**, España. Con experiencia en **Swift**, **Python**, **Java**, y **SQL**, siempre estoy explorando nuevas tecnologías como **Reflex**, **Supabase**, y **MongoDB**.
 
-## 🌟 About Me
-I’m a passionate **Software Engineer** based in **Madrid**, Spain. With expertise in **Swift**, **Python**, **Java**, and **SQL**, I’m always exploring new technologies like **Reflex**, **Supabase**, and **MongoDB**.
-
-## ⚙️ Skills & Technologies
-- **Languages**: 
+## ⚙️ Habilidades y Tecnologías
+- **Lenguajes**: 
     - ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
     - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
     - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
     - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Databases**: 
+- **Bases de Datos**: 
     - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
     - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-- **Other**: 
+- **Otros**: 
     - ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
     - ![AppleScript](https://img.shields.io/badge/-AppleScript-999999?style=flat&logo=apple&logoColor=white)
-    - Reflex
-    - Supabase
+    - ![Reflex](https://img.shields.io/badge/-Reflex-000000?style=flat&logo=python&logoColor=white)
+    - ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat&logo=postgresql&logoColor=white)
 
-## 🏆 Experience
-- **Atos IT** (2021 - Present): Developer specializing in CRM integration and microservices.
-- **Keapps** (2019 - 2021): Software developer focused on CRM systems.
-- **Cegid Meta4** (2017 - 2019): Support engineer working with CRM solutions.
+## 🏆 Experiencia
+- **Atos IT** (2021 - Actualidad): Desarrollador especializado en integración de CRM y microservicios.
+- **Keapps** (2019 - 2021): Desarrollador de software enfocado en sistemas CRM.
+- **Cegid Meta4** (2017 - 2019): Ingeniero de soporte trabajando con soluciones CRM.
 
-## 📚 Education
-- **Universidad Francisco de Vitoria**: Multiplatform Application Development
-- **Universidad Politécnica de Madrid**: Focus on programming & systems
-- **Universidad Carlos III**: Focus on programming & networks
+## 📚 Educación
+- **Universidad Francisco de Vitoria**: Desarrollo de Aplicaciones Multiplataforma
+- **Universidad Politécnica de Madrid**: Enfoque en programación y sistemas
+- **Universidad Carlos III**: Enfoque en programación y redes
 
-## 📧 Contact
+## 📧 Contacto
 - **Email**: [alberto.aig@me.com](mailto:alberto.aig@me.com)
 
-For more information, visit [my website](https://www.albertoaig.tech).
-
-<!--
-**AlbertoAIG/AlbertoAIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para más información, visita [mi sitio web](https://www.albertoaig.tech).
